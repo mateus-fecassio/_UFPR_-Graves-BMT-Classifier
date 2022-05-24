@@ -1,0 +1,129 @@
+Serão apresentadas métricas e matriz de confusão para cada uma das 12 execuções, seguidas da média dos resultados!
+
+------------------------------------------------------
+Matriz de confusão:
+ [[1]]
+
+F1 0,0
+Acuracia 1,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[1]]
+
+F1 0,0
+Acuracia 1,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 0]
+ [1 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 0]
+ [1 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[1]]
+
+F1 0,0
+Acuracia 1,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[1]]
+
+F1 0,0
+Acuracia 1,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[1]]
+
+F1 1,0
+Acuracia 1,0
+precision 1,0
+recall  1,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 1]
+ [0 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[1]]
+
+F1 1,0
+Acuracia 1,0
+precision 1,0
+recall  1,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[1]]
+
+F1 1,0
+Acuracia 1,0
+precision 1,0
+recall  1,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 1]
+ [0 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 1]
+ [0 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+##################################################
+Matriz de confusão final:
+ [[3 3]
+ [2 4]]
+
+A média dos resultados para K-Neighbors Classifier são:
+
+F1Score:   0,25
+Acurácia:   0,5833333333333334
+Precisão:   0,25
+Recall:   0,25
+Tempo de classificação:  0,05948233604431152
+
+##################################################

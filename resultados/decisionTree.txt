@@ -1,0 +1,132 @@
+Serão apresentadas métricas e matriz de confusão para cada uma das 12 execuções, seguidas da média dos resultados!
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 0]
+ [1 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[1]]
+
+F1 0,0
+Acuracia 1,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[1]]
+
+F1 0,0
+Acuracia 1,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 0]
+ [1 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 0]
+ [1 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 0]
+ [1 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[1]]
+
+F1 1,0
+Acuracia 1,0
+precision 1,0
+recall  1,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 1]
+ [0 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[1]]
+
+F1 1,0
+Acuracia 1,0
+precision 1,0
+recall  1,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 1]
+ [0 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 1]
+ [0 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+------------------------------------------------------
+Matriz de confusão:
+ [[0 1]
+ [0 0]]
+
+F1 0,0
+Acuracia 0,0
+precision 0,0
+recall  0,0
+
+##################################################
+Matriz de confusão final:
+ [[2 4]
+ [4 2]]
+
+A média dos resultados para Decision Tree Classifier são:
+
+F1Score:   0,16666666666666666
+Acurácia:   0,3333333333333333
+Precisão:   0,16666666666666666
+Recall:   0,16666666666666666
+Tempo de classificação:  0,053774356842041016
+
+##################################################
